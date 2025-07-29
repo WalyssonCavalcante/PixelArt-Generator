@@ -31,7 +31,7 @@ Aqui esta uma screenshtot do projeto :
 - Execute no Terminal:
 
 ```sh
-$ git clone https://github.com/AkiroSetonai/PixelArt-Generator.git
+$ git clone https://github.com/WalyssonCavalcante/PixelArt-Generator.git
 
 ```
 
